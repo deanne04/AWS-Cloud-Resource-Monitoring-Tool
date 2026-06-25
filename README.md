@@ -224,7 +224,7 @@ A Cron Job is a scheduled task in Linux and Unix operating systems that automati
 
 Deanne Gonsalves
 
-DevOps & Cloud Enthusiast
+DevOps & Cloud Computing Enthusiast
 
 
 
