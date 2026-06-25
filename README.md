@@ -216,10 +216,6 @@ systemctl status cron
 * Automated Reporting
 
 ---
-A Cron Job is a scheduled task in Linux and Unix operating systems that automatically executes commands or scripts at specified times or intervals without manual intervention.
-
-
----
 ## Author
 
 Deanne Gonsalves
