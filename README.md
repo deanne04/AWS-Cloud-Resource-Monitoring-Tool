@@ -216,6 +216,12 @@ systemctl status cron
 * Automated Reporting
 
 ---
+## Disclaimer
+
+This project was created for learning and educational purposes. AWS resources, commands, and outputs may vary based on account configuration, permissions, and environment settings.
+
+
+---
 ## Author
 
 Deanne Gonsalves
