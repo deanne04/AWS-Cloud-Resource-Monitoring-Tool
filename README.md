@@ -165,19 +165,19 @@ systemctl status cron
 
 ### Script Creation
 
-![Script Creation](screenshots/script-creation.png)
+![Script Creation](script-creation.png)
 
 ### Permission Command
 
-![Permission Command](screenshots/permission-command.png)
+![Permission Command](permission-command.png)
 
 ### Script Execution
 
-![Script Execution](screenshots/script-execution.png)
+![Script Execution](script-execution.png)
 
 ### Cron Status
 
-![Cron Status](screenshots/cron-status.png)
+![Cron Status](cron-status.png)
 
 ---
 
